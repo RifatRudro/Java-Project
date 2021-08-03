@@ -1,0 +1,16 @@
+Account Number:1351073027
+Account Holder Name:Hamid
+Phone :01711355787
+Date of Birth :2nd June
+NID Number :123456
+Password :1234
+
+Account Number:1351073028
+Account Holder Name:Rudro
+Phone :01740451134
+Date of Birth :11 september
+NID Number :123456789
+Password :1234
+
+
+
